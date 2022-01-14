@@ -2,7 +2,6 @@
 $title ='勇者ゲーム';
  include ('_header.php');
  ?>
-
   <section class="works">
     <h1>WORKS</h1>
     <section>
@@ -11,13 +10,7 @@ $title ='勇者ゲーム';
       <p>楽しいアプリです。楽しいアプリです。楽しいアプリです。楽しいアプリです。楽しいアプリです。楽しいアプリです。楽しいアプリです。楽しいアプリです。楽しいアプリです。楽しいアプリです。楽しいアプリです。</p>
       <a href="index.php">戻る</a>
     </section>
-  
-
   </section>
-
-  <footer>
-    <p>(c) dotinstall.com</p>
-  </footer>
 </body>
 </html>
   

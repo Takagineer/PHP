@@ -11,7 +11,6 @@ if($n === 1){
   $message = 'PHPちょっとわかります！';
 }
 ?>
-
 <!DOCTYPE html>
 <html lang="ja">
 <head>
